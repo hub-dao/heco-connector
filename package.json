@@ -1,10 +1,10 @@
 {
-  "name": "@binance-chain/bsc-connector",
+  "name": "@hubdao-finance/heco-connector",
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.0.3",
-  "description": "A simple, maximally extensible, dependency minimized framework for building modern Bsc dApps",
+  "version": "1.0.0",
+  "description": "A simple, maximally extensible, dependency minimized framework for building modern HECO dApps",
   "keywords": [
     "react",
     "hooks",
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/binance-chain-npm/bsc-web3-connector.git"
+    "url": "https://github.com/hub-dao/heco-connector.git"
   },
   "main": "dist/index.js",
   "module": "dist/web3-connector.esm.js",
